@@ -1,0 +1,14 @@
+integer  num1=100        // Numero entero
+double   num2=20.5      // Numero decimal
+string     num3="Juan"   //cadena de caracteres
+boolean   a=true             // verdero o falso
+
+
+//mostrar valores respectivas cajas
+sle_1.text=string(num1)
+sle_2.text=string(num2)
+sle_3.text=num3
+sle_4.text=string(a)
+
+
+
